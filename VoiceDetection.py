@@ -1,5 +1,5 @@
 import streamlit as st
-
+import pyaudio
 import speech_recognition as sr
 import os
 from deepgram import DeepgramClient,PrerecordedOptions,FileSource

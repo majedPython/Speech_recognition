@@ -6,9 +6,9 @@ from deepgram import DeepgramClient,PrerecordedOptions,FileSource
 
 import wave
 
-directory = r'D:\\majed\\Data Science\\deployment\\checkpoint\\VoiceCheckpoint\\Speech_recognition'
+#directory = r'D:\\majed\\Data Science\\deployment\\checkpoint\\VoiceCheckpoint\\Speech_recognition'
 
-os.chdir(directory)
+#os.chdir(directory)
 
 DEEPGRAM_API_KEY='68be8412d0aa265e6b0a02da9a415c0e8f38e355'
 

@@ -1,3 +1,3 @@
 # Chatbot
-Chatbot that respond to questions about data science
-streanlit link: https://chatbot-zhgmdzrrnc3sgsvozed8ja.streamlit.app/
+Streamlit to transcript voice record
+streanlit link: https://speechrecognition-p2r2ijp4paye9ra4hbjxfk.streamlit.app/
